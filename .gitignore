@@ -19,3 +19,10 @@ devenv.local.yaml
 
 # pre-commit
 .pre-commit-config.yaml
+
+# Go
+*.test
+/typst-render-api
+
+templates
+*.pdf
